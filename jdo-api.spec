@@ -17,7 +17,7 @@ Source0:       %{name}-%{namedversion}.tar.xz
 BuildRequires: java-devel
 BuildRequires: mvn(javax.transaction:jta)
 BuildRequires: mvn(org.apache.ant:ant)
-BuildRequires: mvn(org.apache.maven.shared:maven-shared-components)
+BuildRequires: mvn(org.apache.maven.shared:maven-shared-components:pom:)
 
 %if 0
 # copy-jdori-jars module deps

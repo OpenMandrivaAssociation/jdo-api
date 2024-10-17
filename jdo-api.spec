@@ -7,7 +7,7 @@ Release:       0.5.rc1.1
 Summary:       JDO 3.1 API
 Group:         Development/Java
 License:       ASL 2.0
-URL:           http://db.apache.org/jdo/
+URL:           https://db.apache.org/jdo/
 # svn export http://svn.apache.org/repos/asf/db/jdo/tags/3.1-rc1/ jdo-api-3.1-rc1
 # find jdo-api-3.1-rc1/ -name "*.jar" -delete
 # find jdo-api-3.1-rc1/ -name "*.class" -delete
